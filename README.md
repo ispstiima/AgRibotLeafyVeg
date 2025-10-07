@@ -1,6 +1,6 @@
 # AgRibotLeafyVeg
 
-AgRibot @ bari, Italy - Leafy Vegetables (lettuce) dataset (2025)
+AgRibot @ Bari, Italy - Leafy Vegetables (lettuce) dataset (2025)
 
 # Dataset description
 This dataset is made of natural images acquired by an Intel RealSense D435 (Santa Clara, CA, USA) RGB-D camera, in an experimental field in Bari (Apulia, Italy) of romaine lettuce (variety Romanella) .
