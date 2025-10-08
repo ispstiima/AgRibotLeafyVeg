@@ -23,7 +23,7 @@ This work was funded by the project AgRibot-Harnessing Robotics, XR/AR, and 5G f
 Project website: https://agribot-project.eu/
 
 # Credits
-Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) conceived and performed the experiments. Arianna Rana and Antonio Petitti (CNR-STIIMA) contributed to dataset generation and maintenance. Francesco Montesano (UNIBA) contributed to the experimental design and field setup. Sysman Progetti & Servizi S.r.l. is gratefully acknowledged for hosting experimental tests and for support during data collection.
+Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) conceived and performed the experiments. Arianna Rana and Antonio Petitti (CNR-STIIMA) contributed to dataset generation and maintenance. Francesco F. Montesano (UNIBA) contributed to the experimental design and field setup. Sysman Progetti & Servizi S.r.l. is gratefully acknowledged for hosting experimental tests and for support during data collection.
 
 # Contact person: 
 Annalisa Milella - annalisa.milella@cnr.it, National Research Council of Italy (CNR), Institute of Intelligent Systems and Technologies for Advanced Manufacturing (STIIMA), via Amendola 122 D/O, 70126, Bari, Italy
