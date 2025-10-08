@@ -7,25 +7,22 @@ This dataset is made of natural images of Lactuca sativa L., cv. Romanella acqui
 
 The Intel RealSense D435 produced color (RGB) images (see the color_tagID.png files), color images aligned to depth (see the color_aligned_tagID.png files), depth maps (see the depth_tagID.raw files), depth maps aligned to the color stream (see the depth_aligned_tagID.raw files) and infrared images (see infraredLeft_tagID.png files). All images have a resolution of 1280x720 pixels. Depth maps are provided in millimeters. 
 
-The plants were acquired from a top-view, at a distance between xx and xx m. Data were acquired on four dates, spaced roughly 15 days apart, throughout April and May 2025, covering an entire growing cycle from the early vegetative stage to the harvest stage. Fertilization treatments were applied on two dates between the first and second acquisition days. Four nitrogen (N) fertilization levels were considered, namely:
+The plants were acquired from a top-view, approximately at a distance between 0.9 and 1.3 m from the ground. Data were acquired on four dates, spaced roughly 15 days apart, throughout April and May 2025, covering an entire growing cycle from the early vegetative stage to the harvest stage. Fertilization treatments were applied on two dates between the first and second acquisition days. Four nitrogen (N) fertilization levels were considered, namely:
 - N0: 0 kg/ha
 - N1: 60 kg/ha
 - N2: 120 kg/ha
 - N3: 180 kg/ha
 
 For each fertilization level, four repetitions were set, labeled from I to IV, resulting in a total of 16 plots. For each plot, on each experimental date, two plants were sampled and harvested for field and laboratory
-analysis. The selected plants were labeled using AprilTags.
+analysis. The selected plants were labeled using AprilTags (see tagID in filenames).
 
-Manual annotation was performed to create a segmentation ground truth of three classes (in the Labels folder):
+For each sample plant the corresponding plant mask is provided (see the plant_mask_tagID.png files), with white pixels corresponding to plant pixels and black pixels corresponding to the background or other plants. This mask is obtained in a semi-automated manner by using a SAM2 segmenter with manual bounding box input on the color images. For reflectance calibration, images of the reflectance calibration targets in both the visible and infrared spectra are included. 
 
-canopy: high vegetation other than the trunk (green segments)
-grapes: grape bunches (white segments)
-background: the remaining pixels (black segments)
-Acknowledgments
-This work was funded by the Project E-crops - Technologies for Digital and Sustainable Agriculture (Italian Ministry of University and Research, PON Agrifood Program, No. ARS01_01136).
+# Acknowledgement
+This work was funded by the projects: AgRibot-Harnessing Robotics, XR/AR, and 5G for a New Era of Safe, Sustainable, and Smart Agriculture, European Union’s Horizon Europe research and innovation programme (Grant Number: 101183158).
 
 # Credits
-Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) conceived and performed the experiments. Roberto Marani (CNR-STIIMA) contributed to dataset generation and maintenance. The agricultural farm Cantina San Donaci (BR), Italy, is gratefully acknowledged for hosting experimental tests and for support during data collection.
+Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) conceived and performed the experiments. Arianna Rana and Antonio Petitti (CNR-STIIMA) contributed to dataset generation and maintenance. Francesco Montesano (UNIBA) contributed to the experimental design and field setup. Sysman Progetti & Servizi S.r.l. is gratefully acknowledged for hosting experimental tests and for support during data collection.
 
 # Contact person: 
 Annalisa Milella - annalisa.milella@cnr.it
