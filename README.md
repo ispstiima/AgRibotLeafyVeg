@@ -19,7 +19,8 @@ analysis. The selected plants were labeled using AprilTags (see tagID in filenam
 For each sample plant the corresponding plant mask is provided (see the plant_mask_tagID.png files), with white pixels corresponding to plant pixels and black pixels corresponding to the background or other plants. This mask is obtained in a semi-automated manner by using a SAM2 segmenter with manual bounding box input on the color images. For reflectance calibration, images of the reflectance calibration targets in both the visible and infrared spectra are included. 
 
 # Acknowledgement
-This work was funded by the projects: AgRibot-Harnessing Robotics, XR/AR, and 5G for a New Era of Safe, Sustainable, and Smart Agriculture, European Union’s Horizon Europe research and innovation programme (Grant Number: 101183158).
+This work was funded by the project AgRibot-Harnessing Robotics, XR/AR, and 5G for a New Era of Safe, Sustainable, and Smart Agriculture, European Union’s Horizon Europe research and innovation programme (Grant Number: 101183158).
+Project website: https://agribot-project.eu/
 
 # Credits
 Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) conceived and performed the experiments. Arianna Rana and Antonio Petitti (CNR-STIIMA) contributed to dataset generation and maintenance. Francesco Montesano (UNIBA) contributed to the experimental design and field setup. Sysman Progetti & Servizi S.r.l. is gratefully acknowledged for hosting experimental tests and for support during data collection.
