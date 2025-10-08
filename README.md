@@ -3,7 +3,7 @@
 AgRibot @ Bari, Italy - Leafy Vegetables (lettuce) dataset (2025)
 
 # Dataset description
-This dataset is made of natural images acquired by an Intel RealSense D435 (Santa Clara, CA, USA) RGB-D camera, in an experimental field in Bari (Apulia, Italy) of romaine lettuce (variety Romanella) .
+This dataset is made of natural images acquired by an Intel RealSense D435 (Santa Clara, CA, USA) RGB-D camera, in an experimental field in Bari (Apulia, Italy) with Lactuca sativa L., cv. Romanella.
 
 The Intel RealSense D435 produced images of resolution of 1280x720 pixels (see color_tagID.png files), depth maps (see the depth_tagID.raw files), aligned depth maps (see the depth_aligned_tagID.raw files) of the same resolutions (units are in meters) and infrared images (see infraredLeft_tagID.png files). The plants were acquired from a top-view, at a distance between xx and xx m. Data were acquired on four dates, spaced roughly 15 days apart, throughout April and May 2025, covering an entire growing cycle from the early vegetative stage to the harvest stage. Fertilization treatments were applied on two dates between the first and second acquisition days. Four nitrogen (N) fertilization levels were considered, namely:
 - N0: 0 kg/ha
