@@ -23,7 +23,7 @@ This work was funded by the project AgRibot-Harnessing Robotics, XR/AR, and 5G f
 Project website: https://agribot-project.eu/
 
 # Credits
-Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) developed the sensing system, conceived and supervised the experiments, and contributed to dataset generation and maintenance.  Arianna Rana (CNR-STIIMA), Michele Elia (CNR-STIIMA) and Antonio Petitti (CNR-STIIMA) contributed to the development of the sensing system and to dataset generation and maintenance. Francesco F. Montesano (UNIBA) conceived the experimental design and field setup. Sysman Progetti & Servizi S.r.l. is gratefully acknowledged for hosting experimental tests and for support during data collection.
+Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) developed the sensing system, conceived and supervised the experiments, and contributed to dataset generation and maintenance.  Arianna Rana (CNR-STIIMA), Michele Elia (CNR-STIIMA) and Antonio Petitti (CNR-STIIMA) contributed to the development of the sensing system and to dataset generation and maintenance. Francesco F. Montesano (UNIBA) conceived the experimental design and field setup. 
 
 # Contact person: 
 Annalisa Milella - annalisa.milella@cnr.it, National Research Council of Italy (CNR), Institute of Intelligent Systems and Technologies for Advanced Manufacturing (STIIMA), via Amendola 122 D/O, 70126, Bari, Italy
