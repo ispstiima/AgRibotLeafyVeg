@@ -19,8 +19,8 @@ analysis. The selected plants were labeled using AprilTags (see tagID in filenam
 For each sample plant the corresponding plant mask is provided (see the plant_mask_tagID.png files), with white pixels corresponding to plant pixels and black pixels corresponding to the background or other plants. This mask is obtained in a semi-automated manner by using a SAM2 segmenter (https://ai.meta.com/sam2/) with manual bounding box input on the color images.
 
 # Acknowledgement
-This work was funded by the project AgRibot-Harnessing Robotics, XR/AR, and 5G for a New Era of Safe, Sustainable, and Smart Agriculture, European Union’s Horizon Europe research and innovation programme (Grant Number: 101183158).
-Project website: https://agribot-project.eu/
+%This work was funded by the project AgRibot-Harnessing Robotics, XR/AR, and 5G for a New Era of Safe, Sustainable, and Smart Agriculture, European Union’s Horizon Europe research and innovation programme (Grant Number: 101183158).
+%Project website: https://agribot-project.eu/
 
 # Credits
 Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) developed the sensing system, conceived and supervised the experiments, and contributed to dataset generation and maintenance.  Arianna Rana (CNR-STIIMA), Michele Elia (CNR-STIIMA) and Antonio Petitti (CNR-STIIMA) contributed to the development of the sensing system and to dataset generation and maintenance. Francesco F. Montesano (UNIBA) conceived the experimental design and field setup. 
