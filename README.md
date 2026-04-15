@@ -28,8 +28,8 @@ Francesco Fabiano Montesano (UNIBA), Anna Maria Stellacci (UNIBA), and Mariadome
 
 # Contact person: 
 Dr. Annalisa Milella, PhD,
-National Research Council of Italy (CNR), Institute of Intelligent Systems and Technologies for Advanced Manufacturing (STIIMA), via Amendola 122 D/O, 70126, Bari, Italy
-annalisa.milella@cnr.it
+National Research Council of Italy (CNR), Institute of Intelligent Systems and Technologies for Advanced Manufacturing (STIIMA), via Amendola 122 D/O, 70126, Bari, Italy.
+E-mail: annalisa.milella@cnr.it
 
 
 # Cite this dataset
