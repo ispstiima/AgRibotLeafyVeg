@@ -27,7 +27,7 @@ Annalisa Milella (CNR-STIIMA), Giulio Reina (Politecnico of Bari), Arianna Rana 
 Francesco Fabiano Montesano (UNIBA), Anna Maria Stellacci (UNIBA), and Mariadomenica Corsi (UNIBA) designed and implemented the agronomic experimental field.
 
 # Contact person: 
-Dr. Annalisa Milella, PhD
+Dr. Annalisa Milella, PhD,
 National Research Council of Italy (CNR), Institute of Intelligent Systems and Technologies for Advanced Manufacturing (STIIMA), via Amendola 122 D/O, 70126, Bari, Italy
 annalisa.milella@cnr.it
 
