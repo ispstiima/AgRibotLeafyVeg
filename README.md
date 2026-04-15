@@ -22,10 +22,13 @@ For each sample plant the corresponding plant mask is provided (see the plant_ma
 This work was funded by the project AgRibot-Harnessing Robotics, XR/AR, and 5G for a New Era of Safe, Sustainable, and Smart Agriculture, European Union’s Horizon Europe research and innovation programme (Grant Number: 101183158).
 
 # Credits
-
+The experiments were conceived by Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari).
+Annalisa Milella (CNR-STIIMA), Giulio Reina (Politecnico of Bari), Arianna Rana (CNR-STIIMA), and Antonio Petitti (CNR-STIIMA) performed the experiments and contributed to the generation and maintenance of the dataset. The technical support of Michele Elia (CNR-STIIMA) during data acquisition is also gratefully acknowledged.
+Francesco Fabiano Montesano (UNIBA), Anna Maria Stellacci (UNIBA), and Mariadomenica Corsi (UNIBA) designed and implemented the agronomic experimental field.
 
 # Contact person: 
 Dr. Annalisa Milella, PhD
+National Research Council of Italy (CNR), Institute of Intelligent Systems and Technologies for Advanced Manufacturing (STIIMA), via Amendola 122 D/O, 70126, Bari, Italy
 annalisa.milella@cnr.it
 
 
